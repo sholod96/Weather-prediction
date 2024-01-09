@@ -12,4 +12,5 @@ date: "9 de Enero de 2024"
 
 ## Datos
 
-* Weather Training Data: El dataset que utilizaremos para el análisis obtenido de: https://www.kaggle.com/datasets/arunavakrchakraborty/australia-weather-data?select=Weather+Test+Data.csv.
+* Weather: El dataset que utilizaremos para el análisis obtenido de: https://www.kaggle.com/datasets/arunavakrchakraborty/australia-weather-data?select=Weather+Test+Data.csv.
+* Weather_clean: El dataset resultante después de la limpieza e imputaciones que se ha usado para los modelos predictivos.
