@@ -1,7 +1,6 @@
 ---
 title: "Weather prediction: Limpieza de datos para la predicción del tiempo"
-authors: "Sofia Holod, Ane Segurola Ortiz"
-date: "9 de Enero de 2024"
+authors: "Sofia Holod"
 ---
 
 # Ficheros
