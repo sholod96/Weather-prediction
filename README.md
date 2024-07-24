@@ -7,7 +7,7 @@ authors: "Sofia Holod"
 
 ## Código
 
-* Tipología_PR2.py: fichero principal.
+* weather.py: fichero principal.
 
 ## Datos
 
